@@ -1,0 +1,1055 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+body
+{
+  background: #0B1C2B;
+  //background-image: url("https://sciencenotes.org/wp-content/uploads/2015/01/PeriodicTableMuted.png");
+}
+.Copyright
+{
+  margin: 0;
+  transform: rotate(-90deg);
+	transform-origin: left top 0;
+  position: absolute;
+  display: block;
+  right: -285px;
+  top: 600px;
+  color: #CCCCCC;
+  font-family: "Rubik";
+  font-weight: 400;
+}
+#Hydrogen
+{
+  position: absolute;
+  display: block;
+  left: 50px;
+  top: 20px;
+}
+#Lithium
+{
+  position: absolute;
+  display: block;
+  left: 50px;
+  top: 120px;
+}
+#Sodium
+{
+  position: absolute;
+  display: block;
+  left: 50px;
+  top: 220px;
+}
+#Potassium
+{
+  position: absolute;
+  display: block;
+  left: 50px;
+  top: 320px;
+}
+#Rubidium
+{
+  position: absolute;
+  display: block;
+  left: 50px;
+  top: 420px;
+}
+#Cesium
+{
+  position: absolute;
+  display: block;
+  left: 50px;
+  top: 520px;
+}
+#Francium
+{
+  position: absolute;
+  display: block;
+  left: 50px;
+  top: 620px;
+}
+#Beryllium
+{
+  position: absolute;
+  display: block;
+  left: 150px;
+  top: 120px;
+}
+#Magnesium
+{
+  position: absolute;
+  display: block;
+  left: 150px;
+  top: 220px;
+}
+#Calcium
+{
+  position: absolute;
+  display: block;
+  left: 150px;
+  top: 320px;
+}
+#Strontium
+{
+  position: absolute;
+  display: block;
+  left: 150px;
+  top: 420px;
+}
+#Barium
+{
+  position: absolute;
+  display: block;
+  left: 150px;
+  top: 520px;
+}
+#Radium
+{
+  position: absolute;
+  display: block;
+  left: 150px;
+  top: 620px;
+}
+#Scandium
+{
+  position: absolute;
+  display: block;
+  left: 250px;
+  top: 320px;
+}
+#Yttrium
+{
+  position: absolute;
+  display: block;
+  left: 250px;
+  top: 420px;
+}
+#Placeholder1
+{
+  position: absolute;
+  display: block;
+  left: 250px;
+  top: 520px;
+}
+#Placeholder2
+{
+  position: absolute;
+  display: block;
+  left: 250px;
+  top: 620px;
+}
+#Titanium
+{
+  position: absolute;
+  display: block;
+  left: 350px;
+  top: 320px;
+}
+#Zirconium
+{
+  position: absolute;
+  display: block;
+  left: 350px;
+  top: 420px;
+}
+#Hafnium
+{
+  position: absolute;
+  display: block;
+  left: 350px;
+  top: 520px;
+}
+#Rutherfordium
+{
+  position: absolute;
+  display: block;
+  left: 350px;
+  top: 620px;
+}
+#Vanadium
+{
+  position: absolute;
+  display: block;
+  left: 450px;
+  top: 320px;
+}
+#Niobium
+{
+  position: absolute;
+  display: block;
+  left: 450px;
+  top: 420px;
+}
+#Tantalumn
+{
+  position: absolute;
+  display: block;
+  left: 450px;
+  top: 520px;
+}
+#Dubnium
+{
+  position: absolute;
+  display: block;
+  left: 450px;
+  top: 620px;
+}
+#Chromium
+{
+  position: absolute;
+  display: block;
+  left: 550px;
+  top: 320px;
+}
+#Molybdenum
+{
+  position: absolute;
+  display: block;
+  left: 550px;
+  top: 420px;
+}
+#Tungsten
+{
+  position: absolute;
+  display: block;
+  left: 550px;
+  top: 520px;
+}
+#Seaborgium
+{
+  position: absolute;
+  display: block;
+  left: 550px;
+  top: 620px;
+}
+#Maganese
+{
+  position: absolute;
+  display: block;
+  left: 650px;
+  top: 320px;
+}
+#Technetium
+{
+  position: absolute;
+  display: block;
+  left: 650px;
+  top: 420px;
+}
+#Rhenium
+{
+  position: absolute;
+  display: block;
+  left: 650px;
+  top: 520px;
+}
+#Bohrium
+{
+  position: absolute;
+  display: block;
+  left: 650px;
+  top: 620px;
+}
+#Iron
+{
+  position: absolute;
+  display: block;
+  left: 750px;
+  top: 320px;
+}
+#Ruthenium
+{
+  position: absolute;
+  display: block;
+  left: 750px;
+  top: 420px;
+}
+#Osmium
+{
+  position: absolute;
+  display: block;
+  left: 750px;
+  top: 520px;
+}
+#Hassium
+{
+  position: absolute;
+  display: block;
+  left: 750px;
+  top: 620px;
+}
+#Cobalt
+{
+  position: absolute;
+  display: block;
+  left: 850px;
+  top: 320px;
+}
+#Rhodium
+{
+  position: absolute;
+  display: block;
+  left: 850px;
+  top: 420px;
+}
+#Iridium
+{
+  position: absolute;
+  display: block;
+  left: 850px;
+  top: 520px;
+}
+#Meitnerium
+{
+  position: absolute;
+  display: block;
+  left: 850px;
+  top: 620px;
+}
+#Nickel
+{
+  position: absolute;
+  display: block;
+  left: 950px;
+  top: 320px;
+}
+#Palladium
+{
+  position: absolute;
+  display: block;
+  left: 950px;
+  top: 420px;
+}
+#Platinum
+{
+  position: absolute;
+  display: block;
+  left: 950px;
+  top: 520px;
+}
+#Darmstadtium
+{
+  position: absolute;
+  display: block;
+  left: 950px;
+  top: 620px;
+}
+#Copper
+{
+  position: absolute;
+  display: block;
+  left: 1050px;
+  top: 320px;
+}
+#Silver
+{
+  position: absolute;
+  display: block;
+  left: 1050px;
+  top: 420px;
+}
+#Gold
+{
+  position: absolute;
+  display: block;
+  left: 1050px;
+  top: 520px;
+}
+#Roentgenium
+{
+  position: absolute;
+  display: block;
+  left: 1050px;
+  top: 620px;
+}
+#Zinc
+{
+  position: absolute;
+  display: block;
+  left: 1150px;
+  top: 320px;
+}
+#Cadmium
+{
+  position: absolute;
+  display: block;
+  left: 1150px;
+  top: 420px;
+}
+#Mercury
+{
+  position: absolute;
+  display: block;
+  left: 1150px;
+  top: 520px;
+}
+#Copernicium
+{
+  position: absolute;
+  display: block;
+  left: 1150px;
+  top: 620px;
+}
+#Boron
+{
+  position: absolute;
+  display: block;
+  left: 1250px;
+  top: 120px;
+}
+#Aluminum
+{
+  position: absolute;
+  display: block;
+  left: 1250px;
+  top: 220px;
+}
+#Gallium
+{
+  position: absolute;
+  display: block;
+  left: 1250px;
+  top: 320px;
+}
+#Indium
+{
+  position: absolute;
+  display: block;
+  left: 1250px;
+  top: 420px;
+}
+#Thallium
+{
+  position: absolute;
+  display: block;
+  left: 1250px;
+  top: 520px;
+}
+#Nihonium
+{
+  position: absolute;
+  display: block;
+  left: 1250px;
+  top: 620px;
+}
+#Carbon
+{
+  position: absolute;
+  display: block;
+  left: 1350px;
+  top: 120px;
+}
+#Silicon
+{
+  position: absolute;
+  display: block;
+  left: 1350px;
+  top: 220px;
+}
+#Germanium
+{
+  position: absolute;
+  display: block;
+  left: 1350px;
+  top: 320px;
+}
+#Tin
+{
+  position: absolute;
+  display: block;
+  left: 1350px;
+  top: 420px;
+}
+#Lead
+{
+  position: absolute;
+  display: block;
+  left: 1350px;
+  top: 520px;
+}
+#Flerovium
+{
+  position: absolute;
+  display: block;
+  left: 1350px;
+  top: 620px;
+}
+#Nitrogen
+{
+  position: absolute;
+  display: block;
+  left: 1450px;
+  top: 120px;
+}
+#Phosphorus
+{
+  position: absolute;
+  display: block;
+  left: 1450px;
+  top: 220px;
+}
+#Arsenic
+{
+  position: absolute;
+  display: block;
+  left: 1450px;
+  top: 320px;
+}
+#Antimony
+{
+  position: absolute;
+  display: block;
+  left: 1450px;
+  top: 420px;
+}
+#Bismuth
+{
+  position: absolute;
+  display: block;
+  left: 1450px;
+  top: 520px;
+}
+#Moscovium
+{
+  position: absolute;
+  display: block;
+  left: 1450px;
+  top: 620px;
+}
+#Oxygen
+{
+  position: absolute;
+  display: block;
+  left: 1550px;
+  top: 120px;
+}
+#Sulfur
+{
+  position: absolute;
+  display: block;
+  left: 1550px;
+  top: 220px;
+}
+#Selenium
+{
+  position: absolute;
+  display: block;
+  left: 1550px;
+  top: 320px;
+}
+#Tellurium
+{
+  position: absolute;
+  display: block;
+  left: 1550px;
+  top: 420px;
+}
+#Polonium
+{
+  position: absolute;
+  display: block;
+  left: 1550px;
+  top: 520px;
+}
+#Livermorium
+{
+  position: absolute;
+  display: block;
+  left: 1550px;
+  top: 620px;
+}
+#Fluorine
+{
+  position: absolute;
+  display: block;
+  left: 1650px;
+  top: 120px;
+}
+#Chlorine
+{
+  position: absolute;
+  display: block;
+  left: 1650px;
+  top: 220px;
+}
+#Bromine
+{
+  position: absolute;
+  display: block;
+  left: 1650px;
+  top: 320px;
+}
+#Iodine
+{
+  position: absolute;
+  display: block;
+  left: 1650px;
+  top: 420px;
+}
+#Astatine
+{
+  position: absolute;
+  display: block;
+  left: 1650px;
+  top: 520px;
+}
+#Tennessine
+{
+  position: absolute;
+  display: block;
+  left: 1650px;
+  top: 620px;
+}
+#Helium
+{
+  position: absolute;
+  display: block;
+  left: 1750px;
+  top: 20px;
+}
+#Neon
+{
+  position: absolute;
+  display: block;
+  left: 1750px;
+  top: 120px;
+}
+#Argon
+{
+  position: absolute;
+  display: block;
+  left: 1750px;
+  top: 220px;
+}
+#Krypton
+{
+  position: absolute;
+  display: block;
+  left: 1750px;
+  top: 320px;
+}
+#Xenon
+{
+  position: absolute;
+  display: block;
+  left: 1750px;
+  top: 420px;
+}
+#Radon
+{
+  position: absolute;
+  display: block;
+  left: 1750px;
+  top: 520px;
+}
+#Oganesson
+{
+  position: absolute;
+  display: block;
+  left: 1750px;
+  top: 620px;
+}
+#Lanthanum
+{
+  position: absolute;
+  display: block;
+  left: 280px;
+  top: 760px;
+}
+#Actinium
+{
+  position: absolute;
+  display: block;
+  left: 280px;
+  top: 860px;
+}
+#Cerium
+{
+  position: absolute;
+  display: block;
+  left: 380px;
+  top: 760px;
+}
+#Thorium
+{
+  position: absolute;
+  display: block;
+  left: 380px;
+  top: 860px;
+}
+#Praseodymium
+{
+  position: absolute;
+  display: block;
+  left: 480px;
+  top: 760px;
+}
+#Protactinium
+{
+  position: absolute;
+  display: block;
+  left: 480px;
+  top: 860px;
+}
+#Neodymium
+{
+  position: absolute;
+  display: block;
+  left: 580px;
+  top: 760px;
+}
+#Uranium
+{
+  position: absolute;
+  display: block;
+  left: 580px;
+  top: 860px;
+}
+#Promethium
+{
+  position: absolute;
+  display: block;
+  left: 680px;
+  top: 760px;
+}
+#Neptunium
+{
+  position: absolute;
+  display: block;
+  left: 680px;
+  top: 860px;
+}
+#Samarium
+{
+  position: absolute;
+  display: block;
+  left: 780px;
+  top: 760px;
+}
+#Plutonium
+{
+  position: absolute;
+  display: block;
+  left: 780px;
+  top: 860px;
+}
+#Europium
+{
+  position: absolute;
+  display: block;
+  left: 880px;
+  top: 760px;
+}
+#Americium
+{
+  position: absolute;
+  display: block;
+  left: 880px;
+  top: 860px;
+}
+#Gadolinium
+{
+  position: absolute;
+  display: block;
+  left: 980px;
+  top: 760px;
+}
+#Curium
+{
+  position: absolute;
+  display: block;
+  left: 980px;
+  top: 860px;
+}
+#Terbium
+{
+  position: absolute;
+  display: block;
+  left: 1080px;
+  top: 760px;
+}
+#Berkelium
+{
+  position: absolute;
+  display: block;
+  left: 1080px;
+  top: 860px;
+}
+#Dysprosium
+{
+  position: absolute;
+  display: block;
+  left: 1180px;
+  top: 760px;
+}
+#Californium
+{
+  position: absolute;
+  display: block;
+  left: 1180px;
+  top: 860px;
+}
+#Holmium
+{
+  position: absolute;
+  display: block;
+  left: 1280px;
+  top: 760px;
+}
+#Einsteinium
+{
+  position: absolute;
+  display: block;
+  left: 1280px;
+  top: 860px;
+}
+#Erbium
+{
+  position: absolute;
+  display: block;
+  left: 1380px;
+  top: 760px;
+}
+#Fermium
+{
+  position: absolute;
+  display: block;
+  left: 1380px;
+  top: 860px;
+}
+#Thulium
+{
+  position: absolute;
+  display: block;
+  left: 1480px;
+  top: 760px;
+}
+#Mendelevium
+{
+  position: absolute;
+  display: block;
+  left: 1480px;
+  top: 860px;
+}
+#Ytterbium
+{
+  position: absolute;
+  display: block;
+  left: 1580px;
+  top: 760px;
+}
+#Nobelium
+{
+  position: absolute;
+  display: block;
+  left: 1580px;
+  top: 860px;
+}
+#Lutetium
+{
+  position: absolute;
+  display: block;
+  left: 1680px;
+  top: 760px;
+}
+#Lawrencium
+{
+  position: absolute;
+  display: block;
+  left: 1680px;
+  top: 860px;
+}
+
+#CompanyLogo
+{
+  position: absolute;
+  display: block;
+  bottom: 20px;
+  left: 20px;
+}
+/* HOVER-EVENTS */
+.Element:hover
+{
+  border-radius: 10px;
+  border: 4px solid rgba(0,0,0,0);
+  width: 90px;
+  height: 90px;
+  color: #0B1C2B;
+}
+.Element:hover #ElementTitle
+{
+ top: -10px;
+ width: 90px;
+}
+.Element:hover #ElementSubTitle
+{
+  top: 19px;
+  width: 90px;
+}
+.Element:hover #ElementAtomicNumber
+{
+  top: -35px;
+  left: 5px;;
+}
+.Element:hover #ElementAtomicMass
+{
+  top: 34px;
+  width: 90px;
+}
+.AlkaliMetal:hover
+{
+  background: rgb(237,39,42);
+  background: radial-gradient(circle, rgba(237,39,42,1) 0%, rgba(127,20,22,1) 100%);
+}
+.AlkalineEarth:hover
+{
+  background: rgb(246,140,37);
+  background: radial-gradient(circle, rgba(246,140,37,1) 0%, rgba(127,73,19,1) 100%);
+}
+.TransitionMetal:hover
+{
+  background: rgb(249,236,24);
+  background: radial-gradient(circle, rgba(249,236,24,1) 0%, rgba(127,121,12,1) 100%);
+}
+.BasicMetal:hover
+{
+  background: rgb(74,184,72);
+  background: radial-gradient(circle, rgba(74,184,72,1) 0%, rgba(30,76,29,1) 100%);
+}
+.Semimetal:hover
+{
+  background: rgb(114,202,194);
+  background: radial-gradient(circle, rgba(114,202,194,1) 0%, rgba(57,102,98,1) 100%);
+}
+.Nonmetal:hover
+{
+  background: rgb(73,179,230);
+  background: radial-gradient(circle, rgba(73,179,230,1) 0%, rgba(40,100,127,1) 100%);
+}
+.Halogen:hover
+{
+  background: rgb(132,132,191);
+  background: radial-gradient(circle, rgba(132,132,191,1) 0%, rgba(52,52,76,1) 100%);
+}
+.NobleGas:hover
+{
+  background: rgb(108,84,163);
+  background: radial-gradient(circle, rgba(108,84,163,1) 0%, rgba(50,39,76,1) 100%);
+}
+.Lanthanide:hover
+{
+  background: rgb(167,206,57);
+  background: radial-gradient(circle, rgba(167,206,57,1) 0%, rgba(72,89,24,1) 100%);
+}
+.Actinide:hover
+{
+  background: rgb(114,194,103);
+  background: radial-gradient(circle, rgba(114,194,103,1) 0%, rgba(44,76,40,1) 100%);
+}
+
+/* ElementText */
+#ElementTitle
+{
+  position: absolute;
+  top: -10px;
+  text-align: center;
+  width: 90px;
+  height: 0px;
+}
+#ElementSubTitle
+{
+  position: absolute;
+  top: 19px;
+  text-align: center;
+  width: 90px;
+  height: 0px;
+}
+#ElementAtomicNumber
+{
+  position: absolute;
+  top: -35px;
+  left: 5px;
+  text-align: center;
+  width: 0 auto;
+  height: 0px;
+}
+#ElementAtomicMass
+{
+  position: absolute;
+  top: 34px;
+  text-align: center;
+  width: 90px;
+  height: 0px;
+}
+
+/* COLORS */
+.AlkaliMetal
+{
+  border: 4px solid #ED272A;
+}
+.AlkalineEarth
+{
+  border: 4px solid #F68C25;
+}
+.TransitionMetal
+{
+  border: 4px solid #F9EC18;
+}
+.BasicMetal
+{
+  border: 4px solid #4AB848;
+}
+.Semimetal
+{
+  border: 4px solid #72CAC2;
+}
+.Nonmetal
+{
+  border: 4px solid #49B3E6;
+}
+.Halogen
+{
+  border: 4px solid #8484BF;
+}
+.NobleGas
+{
+  border: 4px solid #6C54A3;
+}
+.Lanthanide
+{
+  border: 4px solid #A7CE39;
+}
+.Actinide
+{
+  border: 4px solid #72C267;
+}
+
+
+.Element
+{
+  height: 90px;
+  width: 90px;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 90px;
+  color: #CCCCCC;
+}
+.Element h1
+{
+  margin: 0;
+  font-family: "Rubik";
+  font-weight: 700;
+  font-size: 40px;
+}
+.Element h2
+{
+  margin: 0;
+  font-family: "Rubik";
+  font-weight: 700;
+  font-size: 12px;
+}
+.Element h3
+{
+  margin: 0;
+  font-family: "Rubik";
+  font-weight: 700;
+  font-size: 10px;
+}
