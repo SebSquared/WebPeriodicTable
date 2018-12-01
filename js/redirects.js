@@ -1,11 +1,11 @@
-// Language: english
+// Country: United Kingdom
 function SelectUnitedKingdom()
 {
-  window.open("languages/english.html", "_self")
+  window.open("Region/Europe/UnitedKingdom/table.html", "_self")
 }
 
-// Language: german
-function SelectUnitedKingdom()
+// Country: Germany
+function SelectGermany()
 {
-  window.open("languages/german.html", "_self")
+  window.open("Region/Europe/Germany/table.html", "_self")
 }
