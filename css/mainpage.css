@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url("https://fonts.googleapis.com/css?family=Rubik");
+
 body
 {
   background: #0B1C2B;
@@ -8,30 +9,57 @@ body
   position: absolute;
   margin: auto;
   top: 0;
-  right: 0;
   bottom: 0;
   left: 0;
-  width: 600px;
-  height: 300px;
-  // background-color: #bbbb;
+  right: 0;
+  width: 60vw;
+  height: 20vw;
+  /*background-color: #BBB;*/
   text-align: center;
 }
-.container h1
+h1
 {
   font-family: "Rubik";
   font-weight: 700;
-  font-size: 50px;
-  color: #CCCCCC;
+  font-size: 2vw;
+  color: #FFFFFF;
+  padding-top: 4vw;
+  padding-bottom: 2vw;
 }
-.container h4
+h2
 {
   font-family: "Rubik";
   font-weight: 700;
-  font-size: 25px;
-  color: #CCCCCC;
+  font-size: 1vw;
+  color: #FFFFFF;
+  text-align: left;
 }
-.button
+h3
+{
+  font-family: "Rubik";
+  font-weight: 700;
+  font-size: 0.8vw;
+  color: #FFFFFF;
+  float: left;
+  padding-left: 0.5vw;
+  padding-right: 2vw;
+  cursor: pointer;
+}
+img
+{
+  float: left;
+}
+#clickable
 {
   cursor: pointer;
   user-select: none;
+}
+#Logo
+{
+  position: absolute;
+  display: block;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
 }
