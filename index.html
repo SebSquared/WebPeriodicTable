@@ -5,16 +5,18 @@
     <meta name="description" content="a periodic table that got lost on the internet. Available in different languages">
     <meta name="keywords" content="periodic,periodic table,lost on the internet,TheSebInside,SebInside">
     <meta name="author" content="TheSebInside">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>WebPeriodicTable</title>
     <link rel="stylesheet" href="css/mainpage.css">
     <script src="js/redirects.js"></script>
   </head>
   <body>
+    <img id="Logo" src="img/WebPeriodicTable_OnlySymbol.png" alt="WebPeriodicTable" height="350vw" width="350vw">
     <div class="container">
-      <h1>Welcome</h1>
-      <h4>please choose your language</h4>
-      <img class="button" draggable="false" src="flags/gb.png" alt="EN" onclick="ClickEN()">
-      <img class="button" draggable="false" src="flags/de.png" alt="DE" onclick="ClickDE()">
+      <h1>Select a Country / Region</h1>
+      <h2>Europe</h2>
+      <img id="clickable" src="flags/germany.png" alt="DE" onclick="SelectGermany()"><h3 onclick="SelectGermany">Germany</h3>
+      <img id="clickable" src="flags/united-kingdom.png" alt="GB" onclick="SelectUnitedKingdom"><h3 onclick="SelectUnitedKingdom">United Kingdom</h3>
     </div>
   </body>
 </html>
