@@ -1,11 +1,11 @@
 // Language: english
-function ClickEN()
+function SelectUnitedKingdom()
 {
   window.open("languages/english.html", "_self")
 }
 
 // Language: german
-function ClickDE()
+function SelectUnitedKingdom()
 {
   window.open("languages/german.html", "_self")
 }
